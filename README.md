@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Anuj Mittal</h1>
 <h3 align="center">Hey, guys my self Anuj Mittal I'm currently pursuing my bachelor in technology from NSUT, Delhi I'm a technology enthuses person I love to solve daily life problems with a technical mindset, I'm a competitive programer and web developer using MERN and also starting to explore app developer using react native</h3>
-
+<--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujmittal2308&label=Profile%20views&color=0e75b6&style=flat" alt="anujmittal2308" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujmittal2308" alt="anujmittal2308" /></a> </p>
+-->
 
 <p align="left"> <a href="https://twitter.com/anujmit79392923" target="blank"><img src="https://img.shields.io/twitter/follow/anujmit79392923?logo=twitter&style=for-the-badge" alt="anujmit79392923" /></a> </p>
 
