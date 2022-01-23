@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 
 
-<!-- <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400"> -->
+<!--<img align='right' src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" width="400"> -->
+ <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
-<img align='right' src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" width="400">
 
 
 - 🔭 I’m currently working on **as Full Stack Web Developer**
