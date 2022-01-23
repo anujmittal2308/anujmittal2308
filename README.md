@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <a href="https://www.instagram.com/anujmittal2308/" target="blank"><img src="https://img.shields.io/twitter/follow/anujmit79392923?logo=twitter&style=for-the-badge" alt="anujmitttal2308" /></a> </p>
 
 
 - 🔭 I’m currently working on **as Full Stack Web Developer**
