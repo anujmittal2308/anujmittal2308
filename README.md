@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
+developer.gif
 
 - 🔭 I’m currently working on **as Full Stack Web Developer**
 
