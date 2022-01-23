@@ -1,5 +1,10 @@
-  <p> align="right"![video](https://user-images.githubusercontent.com/84795217/150681547-5c0adf72-be30-40aa-8a71-8dd20bcdfe70.png)
-</p>
+  
+  <video width="320" height="240" controls>
+  
+<source src="https://user-images.githubusercontent.com/84795217/150681547-5c0adf72-be30-40aa-8a71-8dd20bcdfe70.png">
+</video>
+  
+
 
 <!--
 **anujmittal2308/anujmittal2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
